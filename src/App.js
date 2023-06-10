@@ -5,7 +5,7 @@ class App extends Component {
     super(props);
     this.state = {
       cityList: [
-        { name: "Goa", country: "India" },
+        { name: "Patna", country: "India" },
         { name: "Amsterdam", country: "Netherlands" },
         { name: "New York", country: "USA" },
         { name: "Darjeeling", country: "India" },
